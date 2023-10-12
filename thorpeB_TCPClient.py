@@ -1,7 +1,7 @@
 '''
 Bryce Thorpe
+Written in University of Arizona CYBV 473 - Violent Python
 Scripting Assignment 11 - Create TCP Client
-Violent Python
 2/28/23
 
 Simple Client Data Transfer in the clear with echo
