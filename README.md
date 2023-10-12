@@ -11,10 +11,12 @@ The `TCPsServer.py` script is a simple server that waits for a connection reques
 ### Usage
 
 1. Run the server script as sudo using Python3:
+
    ```bash
    sudo python3 TCPServer.py
    ```
-2. Wait for the incoming client request. 
+   
+3. Wait for the incoming client request. 
 
 ## Client
 
@@ -26,7 +28,8 @@ The `TCPClient.py` script demonstrates a client application that connects to a s
 
 1. Run the client script as sudo using Python3:
 
-  ```bash
-  sudo python TCPClient.py
-  ```
+     ```bash
+     sudo python TCPClient.py
+     ```
+     
 2. Type `continue` to continue or `exit` to exit the program. Wait for the server to return the messages back along with the hashes.
