@@ -6,7 +6,7 @@ This repository contains two Python scripts for creating a simple TCP client and
 
 ### Description
 
-The `TCPsServer.py` script is a simple server that waits for a connection request over a pre-defined port. Once a connection is established, the server receives data sent over the port, displays the contents of the received data, generates an MD5 hash hex digest of the message content, and echoes it back to the client.
+The `TCPServer.py` script is a simple server that waits for a connection request over a pre-defined port. Once a connection is established, the server receives data sent over the port, displays the contents of the received data, generates an MD5 hash hex digest of the message content, and echoes it back to the client.
 
 ### Usage
 
